@@ -1,11 +1,10 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center"> Welcom to my profile </h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  <a href="ttps://www.facebook.com/profile.php?id=100047739422168" >
+   <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif"  />
   </a>
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
@@ -19,41 +18,42 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> ____About Me____ </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://64.media.tumblr.com/005801ec00f53ac968ddaf25827412ac/7a4780e5f414976f-5b/s500x750/393b2d8350728b0862e9da2754d96cbab828ce3a.gifv" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
-  <li>
-<b>Deadname:</b> Dominic
+ <b>Name:</b> dat dinh</li>
 </li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Fursona:</b> Snow Wolf
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b>girl, games
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> he/him/Male 🏳️‍⚧️
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>PHONE: </b> 0398756015
+</li>
+<link>
+<b>FB: </b> [My fb page]
+</link href = "https://www.facebook.com/profile.php?id=100047739422168" >
+<li>
+<b>Hobbys:</b>Dev, eat, sleep
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> System security
 </li>
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 Knowledge 📇 ~</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" align="center">
   </div>
 </div>
 <div>
