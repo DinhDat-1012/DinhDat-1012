@@ -52,7 +52,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-954.gif" align="center">
   </div>
 </div>
 <div>
