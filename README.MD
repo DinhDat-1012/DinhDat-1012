@@ -7,11 +7,11 @@
    <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif"  />
   </a>
     <br>
-  <p>Tạc dạ chu lâu mộng</p>
-  <p>Kim tiêu thủy quốc ngâm</p>
-  <p>Đảo vân chưng đại hải</p>
-  <p>Lam khí tiếp tùng lâm</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 🏆 Hồng lâu mộng - 🏆 Tào Tuyết Cần 🏆</a><p>
+  <p>昨 夜 朱 樓 夢</p>
+  <p>今 宵 水 國 吟</p>
+  <p>島 雲 蒸 大 海</p>
+  <p>嵐 氣 接 叢 林</p>
+<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 🏆 真 真 國 女 兒 詩 - 🏆 Tào Tuyết Cần 🏆</a><p>
   
 </div>
     <div align="center">
