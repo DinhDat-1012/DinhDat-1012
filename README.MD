@@ -19,7 +19,7 @@
 <div>
 <h2 align="center"> ____About Me____ </h2>
   <div align="center">
-<img src="https://tenor.com/vi/view/pepe-cough-pepecough-gif-26668490" align="right" width = "300" height = "200">
+<img src="https://tenor.com/bX3Q6.gif" align="right" width = "300" height = "200">
   </div>
 <li>
  <b>Name:</b> Dinh Duc Dat</li>
@@ -52,7 +52,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://tenor.com/vi/view/pepe-cough-pepecough-gif-26668490" align="center">
+<img src="https://tenor.com/bX3Q6.gif" align="center">
   </div>
 </div>
 <div>
