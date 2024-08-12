@@ -11,7 +11,7 @@
   <p>今 宵 水 國 吟</p>
   <p>島 雲 蒸 大 海</p>
   <p>嵐 氣 接 叢 林</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 🏆 真 真 國 女 兒 詩 - 🏆 Tào Tuyết Cần 🏆</a><p>
+<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 🏆 真 真 國 女 兒 詩 - 🏆</a><p>
   
 </div>
     <div align="center">
