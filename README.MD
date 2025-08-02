@@ -1,6 +1,7 @@
 <body>
   <center>
 <h1 align="center"> Welcome to my profile </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD37&width=435&lines=Hi!+I'm+Dat%2C+a+passionate+student+and+aspiring+software+developer+from+Vietnam.+I'm+currently+studying+Math+-+Infomation+at+HUST%2C+and+I+enjoy+building+web+applications%2C+exploring+new+technologies%2C+and+solving+real-world+problems+with+code.++" alt="Typing SVG" /></a>
 <br>
 <div align="center">
   <a href="ttps://www.facebook.com/profile.php?id=100047739422168" >
