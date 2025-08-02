@@ -5,7 +5,7 @@
 <p align="center">
   Visitor count  
   <br>
-  <img src="https://count.getloli.com/get/@huyvu15.github.readme" alt="visitor count">
+  <img src="https://count.getloli.com/@DinhDat-1012?name=DinhDat-1012&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdat-1012&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdat-1012" /> </p>
