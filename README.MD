@@ -1,81 +1,25 @@
-<body>
-  <center>
-<h1 align="center"> Welcome to my profile </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD37&width=435&lines=Hi!+I'm+Dat;I'm+a+passionate+student+;I+enjoy+building+web+applications" alt="Typing SVG" /></a><br>
-<div align="center">
-  <a href="ttps://www.facebook.com/profile.php?id=100047739422168" >
-   <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif"  />
-  </a>
-    <br>
-  <p>昨 夜 朱 樓 夢</p>
-  <p>今 宵 水 國 吟</p>
-  <p>島 雲 蒸 大 海</p>
-  <p>嵐 氣 接 叢 林</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 🏆 真 真 國 女 兒 詩 - 🏆</a><p>
-  
-</div>
-    <div align="center">
-     </div>
-<div>
-<h2 align="center"> ____About Me____ </h2>
-  <div align="center">
-<img src="https://tenor.com/bX3Q6.gif" align="right" width = "300" height = "200">
-  </div>
-<li>
- <b>Name:</b> Dinh Duc Dat</li>
-</li>
-<li>
-<b>Loves:</b>girl, games
-</li>
-<li>
-<b>Gender:</b> he/him/Male 🏳️‍⚧️
-</li>
-<li>
-<b>PHONE: </b> 0398756015
-</li>
-<link>
-<b>FB: </b> [My fb page]
-</link href = "https://www.facebook.com/profile.php?id=100047739422168" >
-<li>
-<b>Hobbys:</b>Dev, eat, sleep
-</li>
-<li>
-<b>Working @:</b> System security
-</li>
-<li>
-<b>University:</b> Hanoi University Of Science and Technology
-</li>
-<br><br><br>
-</div>
-<div>
-<h2 align="center">            ~ 📇 Knowledge 📇 ~</h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://tenor.com/bX3Q6.gif" align="center">
-  </div>
-</div>
-<div>
-  <br>
-  <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226082.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzA1MTY2NywicSI6bnVsbCwiaWF0IjoxNzEyNzkyNDY3fQ__.c0f1b64232b9b7cf0d9fee2c935466b6a4af5de2f85a1710bdd6e16fc8bba1a6" width = 40 height =40></img>
-  <img src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width = 40 height =40></img>
-  <img src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width = 40 height =40></img>
-  <img src = "https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1174953.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzA1MjI2NiwicSI6bnVsbCwiaWF0IjoxNzEyNzkzMDY2fQ__.90a51e6d19db24271467f6c81286133f3f685bc9158986ca3f7bd7c347373e3c" width = 40 height =40></img>
-  <img src = "https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226045.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzA1MjM0NywicSI6bnVsbCwiaWF0IjoxNzEyNzkzMTQ3fQ__.e5d3a586c7dcc0988d7a143c9c7debe4b5a69032adcbbf911714aac3d65f6f42" width = 100 height =40></img>
-  <br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNh9BcxR9b_e-_NfD2YBQkl8Q1VTfqy3kSIsT0Mno-&s" height = 27 width = 110></img>
-  <img src = "https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226033.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzA1MzgyNSwicSI6bnVsbCwiaWF0IjoxNzEyNzk0NjI1fQ__.6b705c82c20f0263c60b1876c107e8f93bb2476ccf16f623536d441ca6c4c961" width = 27 ></img>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
- <br>
- <img src = "https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/272/Google_2015_logo-512.png" width = 200 ></img>
- <br><br>
+<h1 align="center">Hi 👋, I'm DatD</h1>
+<h3 align="center">A passionate Web developer from VietNam</h3>
 
- <br>
-Coppy right @2024 by Dinh Duc Dat
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdat-1012&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdat-1012" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhdat-1012" alt="dinhdat-1012" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📫 How to reach me **dinhdat1012vn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dat-dinh-069b3b15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dat-dinh-069b3b15" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/atinh.51520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/atinh.51520" height="30" width="40" /></a>
 </p>
-<br>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdat-1012&show_icons=true&locale=en&layout=compact" alt="dinhdat-1012" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhdat-1012&show_icons=true&locale=en" alt="dinhdat-1012" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhdat-1012&" alt="dinhdat-1012" /></p>
