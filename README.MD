@@ -7,7 +7,8 @@
   <br>
   <img src="https://count.getloli.com/@DinhDat-1012?name=DinhDat-1012&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count">
 </p>
-
+<a href="https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dat-dinh-069b3b15" height="30" width="40" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdat-1012&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdat-1012" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhdat-1012" alt="dinhdat-1012" /></a> </p>
